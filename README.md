@@ -13,8 +13,8 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <center class="half">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=true"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg&theme=buefy&hide_border=true" /> 
+    <img height="100px" src="https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=true"/> 
+    <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg&theme=buefy&hide_border=true" /> 
 </center>
 
 
