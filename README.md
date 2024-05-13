@@ -12,9 +12,10 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+### 💬Information
 ![](https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg&theme=buefy&hide_border=true)
 
-
-
+### 🌱Contribution
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=2020-qqtcg&theme=minimal" /> </div>
 
 
