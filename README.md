@@ -1,8 +1,6 @@
 ## Hello 👋
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### I'm 2020-qqtcg
 
 - 🔭 I’m currently studying software engineering at Nanjing University. 
