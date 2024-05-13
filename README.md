@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: mj1921761583@gmail.com
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=2020-qqtcg" /> </div>
+![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=2020-qqtcg)
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg" /> </div>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg)
+
 
