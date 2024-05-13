@@ -12,8 +12,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-
-<div style="display: flex; align-items: center; justify-content: center; width: 100vw">
+<div style="display: flex; align-items: center; justify-content: center; width: 100vw; flex-flow: nowarp">
   <div style="flex: 1;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=true"/> 
   </div>
@@ -22,6 +21,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg&theme=buefy&card_width=100px&hide_border=true" /> 
   </div>
 </div>
+
+
+
 
 
 
