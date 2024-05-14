@@ -12,10 +12,14 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-### 💬Information
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2020-qqtcg&theme=buefy&hide_border=true)![](https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=true)
+### 🌱Code
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### 🌱Contribution
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=2020-qqtcg&theme=minimal" /> </div>
+### 💬Information
+![](https://github-readme-stats.vercel.app/api?username=2020-qqtcg&theme=buefy&hide_border=false)
+
+
+<!-- <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=2020-qqtcg&theme=minimal" /> </div> -->
 
 
