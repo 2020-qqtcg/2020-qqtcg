@@ -16,10 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             38 mins         █████████████████████░░░░   84.65 %
-Markdown           3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-GitIgnore file     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Requirements.txt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python             38 mins         ██████████████████▒░░░░░░   72.94 %
+Text               6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Markdown           4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+GitIgnore file     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Requirements.txt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
