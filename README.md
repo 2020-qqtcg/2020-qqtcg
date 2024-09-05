@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             18 hrs 9 mins   ███████████████████████░░   92.54 %
-reStructuredText   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Text               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python             17 hrs 24 mins  ███████████████████████░░   92.39 %
+reStructuredText   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Bash               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Text               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
