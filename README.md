@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             3 hrs 28 mins   █████████████████████████   99.82 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-JSON-lines         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Jupyter            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   2 hrs 39 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
