@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             11 hrs 4 mins   █████████████░░░░░░░░░░░░   52.62 %
-textmate           4 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
-YAML               4 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-JSON               1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Requirements.txt   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python             11 hrs 40 mins  ████████████▓░░░░░░░░░░░░   50.08 %
+textmate           5 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+YAML               4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+JSON               1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Requirements.txt   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
