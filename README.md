@@ -16,8 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   18 mins         █████████████████████████   99.78 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown   31 mins         ██████████████████████▒░░   88.85 %
+Other      4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
 ```
 
 <!--END_SECTION:waka-->
