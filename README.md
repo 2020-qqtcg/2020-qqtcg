@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 31 mins         ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Other        2 hrs 5 mins          ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Markdown     1 hr 17 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-SSH Config   59 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-JavaScript   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python       2 hrs 31 mins         ████████▓░░░░░░░░░░░░░░░░   34.21 %
+Other        1 hr 52 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+SSH Config   1 hr 22 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Markdown     1 hr 15 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+JavaScript   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
