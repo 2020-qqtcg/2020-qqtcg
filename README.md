@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     11 hrs 20 mins        ██████████████████░░░░░░░   71.39 %
-Other        4 hrs 10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-JavaScript   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-SSH Config   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other        4 hrs 10 mins         ████████████████▓░░░░░░░░   66.29 %
+Markdown     1 hr 44 mins          ███████░░░░░░░░░░░░░░░░░░   27.72 %
+JavaScript   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+SSH Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
